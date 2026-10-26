@@ -1,6 +1,6 @@
 # Keling - Static HTML Tourism Website
 
-This is the original responsive local tourism website built as a group project for our Web Development course. The project showcases a clean local narrative promoting tourism, culture, and attractions along the Gambian coast.
+This is the original static Keling tourism website built as a group project for our Web Development course. The project showcases a clean local narrative promoting tourism, culture, and attractions along the Gambian coast.
 
 ## Project Overview
 The primary objective of this project was to master the fundamental structure and styling of web pages without relying on JavaScript or modern front-end frameworks. The core technical focus centers on leveraging **CSS Flexbox** and **CSS Grid** to achieve fully responsive layouts across various screen sizes.
@@ -29,4 +29,4 @@ The primary objective of this project was to master the fundamental structure an
 * **Kausu Kinteh**
 
 ---
-*Note: This repository represents the foundational static version of the Keling tourism project. For the modern full-stack version built with Next.js, TypeScript, and Tailwind CSS, as a personal project,check out the [keling-tourism-guide](https://github.com/temipjames/keling-tourism-guide) repository.*
+*Note: This repository represents the foundational static version of the Keling tourism project. For the modern full-stack version built with Next.js, TypeScript, and Tailwind CSS, as a personal project, check out the [keling-local-tourism](https://github.com/temipjames/keling-local-tourism) repository.*
