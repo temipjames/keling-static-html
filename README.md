@@ -1,4 +1,4 @@
-# Keling - Static HTML Tourism Website
+# KelingKeling - Static HTML Tourism Website
 
 This is the original static Keling tourism website built as a group project for our Web Development course. The project showcases a clean local narrative promoting tourism, culture, and attractions along the Gambian coast.
 
