@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Encode%20Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CRoboto%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CPrata%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CTangerine%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CPlayfair%20Display%20SC%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CPlayfair%20Display%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&display=swap');
+
+
+:root {
+    --heading1-font: 'Roboto', serif;
+    --heading1-size: 2.8rem;
+    --heading1-weight: 700;
+    --heading1-line-height: 3.36rem;
+
+    --heading2-font: 'Roboto', serif;
+    --heading2-size: 2.3rem;
+    --heading2-weight: 700;
+    --heading2-line-height: 3.68rem;
+
+    --body1-font: 'Encode Sans', serif;
+    --body1-size: 1.6rem;
+    --body1-weight: 400;
+    --body1-line-height: 2.56rem;
+
+    --desc1-font: 'Encode Sans', serif;
+    --desc1-size: 2.4rem;
+    --desc1-weight: 700;
+    --desc1-line-height: 3.84rem;
+
+    --desc2-font: 'Encode Sans', serif;
+    --desc2-size: 2.2rem;
+    --desc2-weight: 400;
+    --desc2-line-height: 3.52rem;
+
+    --nav1-font: 'Encode Sans', serif;
+    --nav1-size: 1.3rem;
+    --nav1-weight: 600;
+    --nav1-line-height: 2.56rem;
+    --special-font:  'Tangerine', cursive;
+}

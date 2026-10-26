@@ -1,0 +1,32 @@
+.link {
+    text-decoration: none;
+    font-size: var(--body1-size);
+    color: var(--primary-color);
+}
+.link-container {
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+.link-container-group {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 1rem;
+}
+.gen-container {
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid var(--primary-color);
+    border-bottom: 1px solid var(--primary-color);
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+.icon {
+    width: 35px;
+}
+section h2 {
+    margin: 1rem;
+}

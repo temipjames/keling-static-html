@@ -1,0 +1,6 @@
+:root {
+    --primary-color: #003566; /*Deep Indigo-header,footer,main headings*/
+    --accent-color: #ffc300; /*Vivid Saffron-buttons,eye catcher*/
+    --bg-color: #fdf0d5; /*Warm Sand-page bg,warm local feel*/
+    --alt-color: #386641; /*palm Green-icons,status badges*/
+}

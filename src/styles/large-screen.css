@@ -1,0 +1,74 @@
+@media screen and (min-width: 1024px){
+    .logo {
+        width: 210px;
+    }
+    .top-bar button {
+        font-size: 1.5rem;
+        height: 3.5rem;
+        max-width: 10.5rem;
+        margin-left: 1rem;
+        border: 2px solid var(--primary-color);
+    }
+    .nav-bar a{
+        font-size: 1.5rem;
+        padding: 0.5rem;
+    }
+    .cover {
+        height: 510px;
+    }
+    .cover img {
+        object-position: 0% 25%;
+    }
+    h2 {
+        font-size: 3.3rem;
+        line-height: 3.6rem;
+        letter-spacing: 0.15rem;
+    }
+    .content-section {
+        margin-top: 4rem;
+    }
+    .content-section p {
+        margin-right: 2.5rem;
+        margin-left: 2.5rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+    .img-container {
+        gap: 2rem;
+        padding: 2rem;
+    }
+    .img-box {
+        flex: 0 0 390px;
+        height: 300px;
+    }
+    .img-box:hover {
+        border: 1px solid var(--accent-color);
+    }
+    .bottom-logo {
+        width: 300px;
+    }
+    .footer-text, .about-text {
+        font-size: 2rem;
+        margin-right: 15rem;
+        margin-left: 15rem;
+        padding: 3rem;
+    }
+    .input-container {
+        width: 500px;
+    }
+    #email-text-box, #sub-button {
+        font-size: 2rem;
+    }
+    .about-text h3 {
+        font-size: 2rem;
+    }
+    .about-text p {
+        font-size: 1.9rem;
+        line-height: 2.5rem;
+    }
+    .legal-text a, .legal-text p {
+        font-size: 1.8rem;
+        line-height: 3.06rem;
+        padding-top: 1rem;
+    }
+}
